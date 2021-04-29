@@ -32,7 +32,26 @@ Team Profile
   								<section id="banner">
   									<div class="content">
   									<b>
+                      <!-- Sidebar -->
+                        <div id="sidebar">
+                          <div class="inner">
 
+                            <br><br><br>
+                          <br><br>	<!-- Menu -->
+                              <nav id="menu">
+                                <header class="major">
+                                  <h2>Menu</h2>
+                                </header>
+                                <ul>
+                                  <li><a href="index.html">Homepage</a></li>
+                                    <span class="opener">Submenus</span>
+                                    <ul>
+                                      <li><a href="#">IT Work (Interview)</a></li>
+                                      <li><a href="#">IT Technologies</a></li>
+                                      <li><a href="#">Project Ideas</a></li>
+                                      <li><a href="#">Group Reflections</a></li>
+                                    </ul>
+                              </nav>
   										<br>&nbsp;  <p>&nbsp;</p>  <p>&nbsp;</p>	PERSONAL INFORMATION: <br>
 
 
@@ -59,15 +78,15 @@ I was born in Canberra, Australia and have lived in the Nation's Capital my enti
                           <article>
                             <span class="icon fa-gem"></span>
                             <div class="content">
-                              <h3>Ideal Job</h3>
+                              <h3></h3>
                               <p>		Ideal Jobs:<br>
 
                       <br>The role will be to provide daily IT support for an office team, as well as clients. The person who fulfills this role will be the ‘go to’ person for software installation, hardware support, technical assistance, network and server support and maintenance. While assisting senior management and expanding on your skills and knowledge base.
-
                       To fulfill this role, you need to have skills in a customer and IT support team, will be dependable, good verbal and written skills and experience in Network Admin. There are not qualification requirements are stated by to be a strong candidate a bachelor’s degree would be a must.
-
-                      For this job I need to expand my knowledge and skills on the following experience with file & print sharing, general network management and remote management tools knowledge of networking concepts such as firewalls and routing to achieve this I will need to complete my degree in Introduction to Technology but also picking electives that go towards the area I want to succeed in.
-
+                      For this job I need to expand my knowledge and skills on the following experience with file & print sharing, general network management and remote management tools knowledge of networking concepts such as firewalls and routing to achieve this I will need to complete my degree in Introduction to Technology but also picking electives that go towards the area I want to succeed in. <br>
+                      <br>
+                      Video Game Developer: (Benjamin)
+                      I have always loved video games starting way back when I got Pokémon emerald on my Gameboy and have always wondered how they were made and wanted to make them myself, this job would allow me to develop and engineer technology that will be used to make games, it would also allow me to work in a team for a opportunity to work for a leading video game developer. One skill I have in this area is the knowledge of how game physics work and a drive to get what I want. I would need SQL experience as well as ETL experience as well as AWS experience also a tertiary qualification in computer science. In or to get into this area I would need to finish this course as well as intro to programming and work my way up to doing computer science.
 
   											</div>
   										</article>
@@ -78,21 +97,24 @@ I was born in Canberra, Australia and have lived in the Nation's Capital my enti
   												<p>
   												<i>	PERSONALITY PROFILE</i><br>
                           <br><b>LEARNING STYLE TEST:<br>
-
+                        
       										<br>VISUAL</p>
-
-  												<br>MYERS BRIGGS: ESTP-A / ESTP-T<br>
+                          <br>
+                          <p>&nbsp;</p>
+  												<br>MYERS BRIGGS: Ridge (Left) Ben (Right)<br>
                           <img src="file:///C:/Users/Ridge/Pictures/Personalityquiz.PNG" alt=personalityquiz.png" style="float:left;width:350px;height:210px;"><br>
+                          <img src="C:\Users\Ridge\Pictures\benmyersbriggs.jpg" alt=benmyersbriggs.jpg" style="float:right;width:350px;height:210px;"><br>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
                           <p>&nbsp;</p>
-                            THE BIG 5 TEST: <br>
-OPENNESS, CONSCIENTIOUSNESS, EXTRAVERSION, AGREEABLENESS, AND NEUROTICISM (SOMETIMES ABBREVIATED OCEAN)
+                            THE BIG 5 TEST: Ridge (Left) Ben (Right) <br>
+                            OPENNESS, CONSCIENTIOUSNESS, EXTRAVERSION, AGREEABLENESS, AND NEUROTICISM (SOMETIMES ABBREVIATED OCEAN)
 
                           <img src="file:///C:/Users/Ridge/Pictures/Big%205%20test.PNG" alt=bigtest.PNG" style="float:left;width:350px;height:210px;"><br>
+                          <img src="C:\Users\Ridge\Pictures\Ben5test.png" alt=Ben5test.png" style="float:right;width:350px;height:210px;"><br>
                         <br>
                         <p>&nbsp;</p>
                         <p>&nbsp;</p>
@@ -197,39 +219,13 @@ UI Design and Language Programming skills are the most important skills required
 
 If the project is successful, we will be helping people with a remarkably simple and eloquent solution. No need to spend endless hours searching in-store or scrolling endlessly online for the perfect gift. Our proposed app gives the user the best options based on data and manually entered details to help the user achieve the perfect gift for everyone. This means every Christmas or birthday users will not have to worry about whether they have gotten the right gift or be anxious about the receiver’s reaction. The user can be confident and enjoy the moment. It will also mean that we have a sustainable business plan so that the app can regularly be updated and enhanced to benefit the user and show the results are more accurate than our competitors.
 
-  				<!-- Sidebar -->
-  					<div id="sidebar">
-  						<div class="inner">
+<br>Group Reflections:<br>
+<br>
+Honestly not much went right with this assignment, for starters no one really communicated with each other until a week before the assignment was due, myself included. When it was just two days before the assignment deadline, only two out of the five people in our group were actually communicating. This has meant that two people were doing the work of five and it took the pair a longer time to submit as there was a lot more work to be completed by the two active participants of the group.
+Almost all aspects of this group assignment could be improved, as two people doing the work of a group of five is not what is expected in a university group assignment. Communication especially could be improved even by myself and the other member that was replying, as it could be quite slow to respond from both parties.
+I will be blunt I am surprised at how badly this group assignment went and even when the tutor asked for everyone to reply to him, I was the only one to respond. It is extremely hard to start a group assignment when there has been no communication attempt by all parties.
+I have learnt that groups do not always work out the way you hope or even how the tutor hopes, and this can cause a lot of stress and anxiety for those attempting to contribute more work than should be required with a group of this size while others do not. Communication is key especially to your group but also to the tutors if there are big issues involved. <br>
 
-
-  				 		<br><br>	<!-- Menu -->
-  								<nav id="menu">
-  									<header class="major">
-  										<h2>Menu</h2>
-  									</header>
-  									<ul>
-  										<li><a href="index.html">Homepage</a></li>
-  											<span class="opener">Submenus</span>
-  											<ul>
-  												<li><a href="#">IT Work (Interview)</a></li>
-  												<li><a href="#">IT Technologies</a></li>
-  												<li><a href="#">Project Ideas</a></li>
-  												<li><a href="#">Personality Tests</a></li>
-  											</ul>
-  								</nav>
-
-  							<!-- Section -->
-  								<section>
-  									<header class="major">
-  										<h2>Get in touch</h2>
-  									</header
-  									<ul class="contact">
-  										<li class="icon solid fa-envelope"><a href="#">ridgep17@hotmail.com</a></li>
-  										<li class="icon solid fa-phone">(61+) 0479131297</li>
-  										<li class="icon solid fa-home">6 Grazier Ln<br />
-  										Belconnen, 2615</li>
-  									</ul>
-  								</section>
 
   							<!-- Footer -->
   								<footer id="footer">
